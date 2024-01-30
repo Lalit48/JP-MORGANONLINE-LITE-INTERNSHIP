@@ -10,18 +10,18 @@ Remember to always rely on official and trustworthy sources when gathering infor
 
 * TASK 1
 
-In firest Task
-  Instance Variables:
-
-- cashValue: Represents the monetary value of the reward.
-- milesValue: Represents the value of the reward in miles.
-
-Constructors:
-
-- public RewardValue(double aCashValue): Initializes the object with a specific cash value.
-- public RewardValue(int aMilesValue): Initializes the object with a specific miles value.
-
-Getter Methods:
-
-- public double getCashValue(): Calculates and returns the total cash value, which includes the original cash value plus a conversion of miles to cash using the conversion factor 0.0035.
-- public int getMilesValue(): Calculates and returns the total miles value, which includes the original miles value plus a conversion of cash to miles using the inverse of the conversion factor.
+    In firest Task
+      Instance Variables:
+    
+    - cashValue: Represents the monetary value of the reward.
+    - milesValue: Represents the value of the reward in miles.
+    
+    Constructors:
+    
+    - public RewardValue(double aCashValue): Initializes the object with a specific cash value.
+    - public RewardValue(int aMilesValue): Initializes the object with a specific miles value.
+    
+    Getter Methods:
+    
+    - public double getCashValue(): Calculates and returns the total cash value, which includes the original cash value plus a conversion of miles to cash using the conversion factor 0.0035.
+    - public int getMilesValue(): Calculates and returns the total miles value, which includes the original miles value plus a conversion of cash to miles using the inverse of the conversion factor.
