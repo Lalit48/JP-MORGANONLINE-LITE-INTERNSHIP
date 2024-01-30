@@ -31,11 +31,11 @@ Remember to always rely on official and trustworthy sources when gathering infor
     In Secound Task
      Conversion Rate Constant:
     
-      - The conversion rate constant is defined as milesToCashConversionRate with a value of 0.0035. This constant is used to convert miles to cash.
+  - The conversion rate constant is defined as milesToCashConversionRate with a value of 0.0035. This constant is used to convert miles to cash.
     
      Constructors:
     
-      - There are two constructors available. One constructor initializes the object with a cash value, while the other constructor initializes it with a miles value.
+     - There are two constructors available. One constructor initializes the object with a cash value, while the other constructor initializes it with a miles value.
     
      Getter Methods:
     
