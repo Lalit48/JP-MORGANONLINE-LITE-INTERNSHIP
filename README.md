@@ -33,14 +33,14 @@ Remember to always rely on official and trustworthy sources when gathering infor
     
   - The conversion rate constant is defined as milesToCashConversionRate with a value of 0.0035. This constant is used to convert miles to cash.
     
-     Constructors:
+    Constructors:
     
-     - There are two constructors available. One constructor initializes the object with a cash value, while the other constructor initializes it with a miles value.
+  - There are two constructors available. One constructor initializes the object with a cash value, while the other constructor initializes it with a miles value.
     
-     Getter Methods:
+    Getter Methods:
     
-      - The getCashValue() method calculates and returns the total cash value, which includes the original cash value plus the conversion of miles to cash. On the other hand, the getMilesValue() method calculates and returns the total miles value, which includes the original miles value plus the conversion of cash to miles.
+  - The getCashValue() method calculates and returns the total cash value, which includes the original cash value plus the conversion of miles to cash. On the other hand, the getMilesValue() method calculates and returns the total miles value, which includes the original miles value plus the conversion of cash to miles.
     
-     Test Methods:
+   Test Methods:
     
-      - There are two test methods implemented using JUnit's @Test annotations. The first test method, convert_from_cash_to_miles, verifies if the conversion from cash to miles is correct. The second test method, convert_from_miles_to_cash, checks if the conversion from miles to cash is correct.
+ - There are two test methods implemented using JUnit's @Test annotations. The first test method, convert_from_cash_to_miles, verifies if the conversion from cash to miles is correct. The second test method, convert_from_miles_to_cash, checks if the conversion from miles to cash is correct.
